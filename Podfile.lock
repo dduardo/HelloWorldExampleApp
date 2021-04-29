@@ -1,0 +1,21 @@
+PODS:
+  - HelloWorldSDK (0.1.0)
+
+DEPENDENCIES:
+  - HelloWorldSDK (from `https://github.com/dduardo/HelloWorldSDK.git`)
+
+EXTERNAL SOURCES:
+  HelloWorldSDK:
+    :git: https://github.com/dduardo/HelloWorldSDK.git
+
+CHECKOUT OPTIONS:
+  HelloWorldSDK:
+    :commit: 8086eef000478baacd2095e6956294d37f74b4c4
+    :git: https://github.com/dduardo/HelloWorldSDK.git
+
+SPEC CHECKSUMS:
+  HelloWorldSDK: 83f764bc11af1bed20593461e759b9854adda7bd
+
+PODFILE CHECKSUM: 5b919b7295cd5f1a370be4b404d7cbe010c262fd
+
+COCOAPODS: 1.10.1
